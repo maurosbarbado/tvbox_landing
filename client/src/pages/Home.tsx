@@ -388,6 +388,114 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Legal Path Section */}
+      <section className="bg-gradient-to-r from-red-50 to-orange-50 border-b border-red-200">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="space-y-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
+              Se Nada Funcionar: Entenda o Problema Real
+            </h2>
+            
+            <div className="bg-white border-l-4 border-red-500 p-8 rounded-r-lg">
+              <h3 className="text-xl font-bold text-gray-900 mb-4">Os Bloqueios Judiciais Explicados</h3>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                Se voc\u00ea seguiu todos os 5 passos e sua TV Box ainda n\u00e3o funciona, o problema provavelmente est\u00e1 relacionado aos bloqueios judiciais recentes. \u00d3rg\u00e3os reguladores e plataformas de streaming leg\u00edtimas t\u00eam derrubado sistematicamente aplicativos piratas e ilegais que ofereciam conte\u00fado sem autoriza\u00e7\u00e3o.
+              </p>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                Esses bloqueios s\u00e3o permanentes e intencionais. N\u00e3o \u00e9 um problema t\u00e9cnico que possa ser corrigido \u2014 \u00e9 uma a\u00e7\u00e3o legal para proteger os direitos autorais e a ind\u00fastria do entretenimento.
+              </p>
+            </div>
+
+            <div className="bg-white border-l-4 border-green-500 p-8 rounded-r-lg">
+              <h3 className="text-xl font-bold text-gray-900 mb-4">O Caminho Legal e Seguro</h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Em vez de tentar reativar aplicativos bloqueados, recomendamos adotar servi\u00e7os de streaming leg\u00edtimos e confi\u00e1veis. Eles oferecem:
+              </p>
+              
+              <div className="space-y-4">
+                <div className="flex gap-4">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
+                  <div>
+                    <h4 className="font-bold text-gray-900 mb-1">Seguran\u00e7a Garantida</h4>
+                    <p className="text-gray-600">Sem risco de malware, v\u00edrus ou problemas legais.</p>
+                  </div>
+                </div>
+                
+                <div className="flex gap-4">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
+                  <div>
+                    <h4 className="font-bold text-gray-900 mb-1">Qualidade Garantida</h4>
+                    <p className="text-gray-600">Conte\u00fado em alta defini\u00e7\u00e3o, sem interrup\u00e7\u00f5es ou bloqueios.</p>
+                  </div>
+                </div>
+                
+                <div className="flex gap-4">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
+                  <div>
+                    <h4 className="font-bold text-gray-900 mb-1">Suporte Profissional</h4>
+                    <p className="text-gray-600">Atendimento ao cliente 24/7 em caso de problemas.</p>
+                  </div>
+                </div>
+                
+                <div className="flex gap-4">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
+                  <div>
+                    <h4 className="font-bold text-gray-900 mb-1">Pre\u00e7os Acess\u00edveis</h4>
+                    <p className="text-gray-600">Planos para todos os or\u00e7amentos, muitos com per\u00edodo de teste gratuito.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-blue-50 border-l-4 border-blue-500 p-8 rounded-r-lg">
+              <h3 className="text-xl font-bold text-gray-900 mb-4">Servi\u00e7os Recomendados e Confi\u00e1veis</h3>
+              <p className="text-gray-700 leading-relaxed mb-6">
+                Escolha uma ou mais dessas plataformas leg\u00edtimas para desfrutar de entretenimento de qualidade:
+              </p>
+              
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <div className="bg-white p-4 rounded border border-gray-200">
+                  <h4 className="font-bold text-gray-900 mb-2">Netflix</h4>
+                  <p className="text-sm text-gray-600">Filmes, s\u00e9ries e document\u00e1rios originais de qualidade premium.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded border border-gray-200">
+                  <h4 className="font-bold text-gray-900 mb-2">Amazon Prime Video</h4>
+                  <p className="text-sm text-gray-600">Conte\u00fado exclusivo + benef\u00edcios adicionais da assinatura Prime.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded border border-gray-200">
+                  <h4 className="font-bold text-gray-900 mb-2">Disney+</h4>
+                  <p className="text-sm text-gray-600">Disney, Marvel, Star Wars, Pixar e National Geographic.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded border border-gray-200">
+                  <h4 className="font-bold text-gray-900 mb-2">Globoplay</h4>
+                  <p className="text-sm text-gray-600">Novelas, s\u00e9ries e conte\u00fado exclusivo da Globo.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded border border-gray-200">
+                  <h4 className="font-bold text-gray-900 mb-2">YouTube Premium</h4>
+                  <p className="text-sm text-gray-600">Sem an\u00fancios + acesso a conte\u00fado exclusivo.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded border border-gray-200">
+                  <h4 className="font-bold text-gray-900 mb-2">Pluto TV</h4>
+                  <p className="text-sm text-gray-600">Canais ao vivo e conte\u00fado sob demanda \u2014 completamente gratuito.</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-gray-100 border border-gray-300 p-8 rounded-lg">
+              <h3 className="text-lg font-bold text-gray-900 mb-3">Escolha Produtos Originais e de Confian\u00e7a</h3>
+              <p className="text-gray-700 leading-relaxed">
+                Ao investir em uma TV Box ou smart TV, sempre escolha marcas reconhecidas e autorizadas. Produtos originais oferecem garantia, atualiza\u00e7\u00f5es de seguran\u00e7a regulares e compatibilidade com os servi\u00e7os de streaming leg\u00edtimos. Evite produtos falsificados ou de origem duvidosa \u2014 eles s\u00e3o mais baratos, mas v\u00eam sem suporte, seguran\u00e7a ou confiabilidade.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="bg-gray-900 text-gray-400 border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
