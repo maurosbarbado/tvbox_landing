@@ -454,43 +454,56 @@ export default function Home() {
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div className="bg-white p-4 rounded border border-gray-200">
+                <a href="https://www.netflix.com/br" target="_blank" rel="noopener noreferrer" className="bg-white p-4 rounded border border-gray-200 hover:shadow-lg hover:border-blue-400 transition-all">
                   <h4 className="font-bold text-gray-900 mb-2">Netflix</h4>
                   <p className="text-sm text-gray-600">Filmes, séries e documentários originais de qualidade premium.</p>
-                </div>
+                  <p className="text-xs text-blue-600 font-semibold mt-3">Acessar →</p>
+                </a>
                 
-                <div className="bg-white p-4 rounded border border-gray-200">
+                <a href="https://www.amazon.com.br/Prime-Video/b?node=14559283011" target="_blank" rel="noopener noreferrer" className="bg-white p-4 rounded border border-gray-200 hover:shadow-lg hover:border-blue-400 transition-all">
                   <h4 className="font-bold text-gray-900 mb-2">Amazon Prime Video</h4>
                   <p className="text-sm text-gray-600">Conteúdo exclusivo + benefícios adicionais da assinatura Prime.</p>
-                </div>
+                  <p className="text-xs text-blue-600 font-semibold mt-3">Acessar →</p>
+                </a>
                 
-                <div className="bg-white p-4 rounded border border-gray-200">
+                <a href="https://www.disneyplus.com/pt-br" target="_blank" rel="noopener noreferrer" className="bg-white p-4 rounded border border-gray-200 hover:shadow-lg hover:border-blue-400 transition-all">
                   <h4 className="font-bold text-gray-900 mb-2">Disney+</h4>
                   <p className="text-sm text-gray-600">Disney, Marvel, Star Wars, Pixar e National Geographic.</p>
-                </div>
+                  <p className="text-xs text-blue-600 font-semibold mt-3">Acessar →</p>
+                </a>
                 
-                <div className="bg-white p-4 rounded border border-gray-200">
+                <a href="https://globoplay.globo.com/" target="_blank" rel="noopener noreferrer" className="bg-white p-4 rounded border border-gray-200 hover:shadow-lg hover:border-blue-400 transition-all">
                   <h4 className="font-bold text-gray-900 mb-2">Globoplay</h4>
                   <p className="text-sm text-gray-600">Novelas, séries e conteúdo exclusivo da Globo.</p>
-                </div>
+                  <p className="text-xs text-blue-600 font-semibold mt-3">Acessar →</p>
+                </a>
                 
-                <div className="bg-white p-4 rounded border border-gray-200">
+                <a href="https://www.youtube.com/premium" target="_blank" rel="noopener noreferrer" className="bg-white p-4 rounded border border-gray-200 hover:shadow-lg hover:border-blue-400 transition-all">
                   <h4 className="font-bold text-gray-900 mb-2">YouTube Premium</h4>
                   <p className="text-sm text-gray-600">Sem anúncios + acesso a conteúdo exclusivo.</p>
-                </div>
+                  <p className="text-xs text-blue-600 font-semibold mt-3">Acessar →</p>
+                </a>
                 
-                <div className="bg-white p-4 rounded border border-gray-200">
+                <a href="https://pluto.tv/pt-br" target="_blank" rel="noopener noreferrer" className="bg-white p-4 rounded border border-gray-200 hover:shadow-lg hover:border-blue-400 transition-all">
                   <h4 className="font-bold text-gray-900 mb-2">Pluto TV</h4>
                   <p className="text-sm text-gray-600">Canais ao vivo e conteúdo sob demanda — completamente gratuito.</p>
-                </div>
+                  <p className="text-xs text-blue-600 font-semibold mt-3">Acessar →</p>
+                </a>
               </div>
             </div>
 
             <div className="bg-gray-100 border border-gray-300 p-8 rounded-lg">
               <h3 className="text-lg font-bold text-gray-900 mb-3">Escolha Produtos Originais e de Confiança</h3>
-              <p className="text-gray-700 leading-relaxed">
+              <p className="text-gray-700 leading-relaxed mb-6">
                 Ao investir em uma TV Box ou smart TV, sempre escolha marcas reconhecidas e autorizadas. Produtos originais oferecem garantia, atualizações de segurança regulares e compatibilidade com os serviços de streaming legítimos. Evite produtos falsificados ou de origem duvidosa — eles são mais baratos, mas vêm sem suporte, segurança ou confiabilidade.
               </p>
+              
+              <div className="space-y-3">
+                <p className="text-gray-700 font-semibold mb-4">Encontre TV Boxes e Smart TVs originais na Amazon:</p>
+                <a href="https://www.amazon.com.br/s?k=tv+box+original" target="_blank" rel="noopener noreferrer" className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors">
+                  Ver TV Boxes Originais na Amazon →
+                </a>
+              </div>
             </div>
           </div>
         </div>
