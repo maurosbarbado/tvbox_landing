@@ -399,25 +399,25 @@ export default function Home() {
             <div className="bg-white border-l-4 border-red-500 p-8 rounded-r-lg">
               <h3 className="text-xl font-bold text-gray-900 mb-4">Os Bloqueios Judiciais Explicados</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Se voc\u00ea seguiu todos os 5 passos e sua TV Box ainda n\u00e3o funciona, o problema provavelmente est\u00e1 relacionado aos bloqueios judiciais recentes. \u00d3rg\u00e3os reguladores e plataformas de streaming leg\u00edtimas t\u00eam derrubado sistematicamente aplicativos piratas e ilegais que ofereciam conte\u00fado sem autoriza\u00e7\u00e3o.
+                Se você seguiu todos os 5 passos e sua TV Box ainda não funciona, o problema provavelmente está relacionado aos bloqueios judiciais recentes. Órgãos reguladores e plataformas de streaming legítimas têm derrubado sistematicamente aplicativos piratas e ilegais que ofereciam conteúdo sem autorização.
               </p>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Esses bloqueios s\u00e3o permanentes e intencionais. N\u00e3o \u00e9 um problema t\u00e9cnico que possa ser corrigido \u2014 \u00e9 uma a\u00e7\u00e3o legal para proteger os direitos autorais e a ind\u00fastria do entretenimento.
+                Esses bloqueios são permanentes e intencionais. Não é um problema técnico que possa ser corrigido — é uma ação legal para proteger os direitos autorais e a indústria do entretenimento.
               </p>
             </div>
 
             <div className="bg-white border-l-4 border-green-500 p-8 rounded-r-lg">
               <h3 className="text-xl font-bold text-gray-900 mb-4">O Caminho Legal e Seguro</h3>
               <p className="text-gray-700 leading-relaxed mb-6">
-                Em vez de tentar reativar aplicativos bloqueados, recomendamos adotar servi\u00e7os de streaming leg\u00edtimos e confi\u00e1veis. Eles oferecem:
+                Em vez de tentar reativar aplicativos bloqueados, recomendamos adotar serviços de streaming legítimos e confiáveis. Eles oferecem:
               </p>
               
               <div className="space-y-4">
                 <div className="flex gap-4">
                   <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
                   <div>
-                    <h4 className="font-bold text-gray-900 mb-1">Seguran\u00e7a Garantida</h4>
-                    <p className="text-gray-600">Sem risco de malware, v\u00edrus ou problemas legais.</p>
+                    <h4 className="font-bold text-gray-900 mb-1">Segurança Garantida</h4>
+                    <p className="text-gray-600">Sem risco de malware, vírus ou problemas legais.</p>
                   </div>
                 </div>
                 
@@ -425,7 +425,7 @@ export default function Home() {
                   <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-bold text-gray-900 mb-1">Qualidade Garantida</h4>
-                    <p className="text-gray-600">Conte\u00fado em alta defini\u00e7\u00e3o, sem interrup\u00e7\u00f5es ou bloqueios.</p>
+                    <p className="text-gray-600">Conteúdo em alta definição, sem interrupções ou bloqueios.</p>
                   </div>
                 </div>
                 
@@ -440,28 +440,28 @@ export default function Home() {
                 <div className="flex gap-4">
                   <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-1" />
                   <div>
-                    <h4 className="font-bold text-gray-900 mb-1">Pre\u00e7os Acess\u00edveis</h4>
-                    <p className="text-gray-600">Planos para todos os or\u00e7amentos, muitos com per\u00edodo de teste gratuito.</p>
+                    <h4 className="font-bold text-gray-900 mb-1">Preços Acessíveis</h4>
+                    <p className="text-gray-600">Planos para todos os orçamentos, muitos com período de teste gratuito.</p>
                   </div>
                 </div>
               </div>
             </div>
 
             <div className="bg-blue-50 border-l-4 border-blue-500 p-8 rounded-r-lg">
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Servi\u00e7os Recomendados e Confi\u00e1veis</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-4">Serviços Recomendados e Confiáveis</h3>
               <p className="text-gray-700 leading-relaxed mb-6">
-                Escolha uma ou mais dessas plataformas leg\u00edtimas para desfrutar de entretenimento de qualidade:
+                Escolha uma ou mais dessas plataformas legítimas para desfrutar de entretenimento de qualidade:
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="bg-white p-4 rounded border border-gray-200">
                   <h4 className="font-bold text-gray-900 mb-2">Netflix</h4>
-                  <p className="text-sm text-gray-600">Filmes, s\u00e9ries e document\u00e1rios originais de qualidade premium.</p>
+                  <p className="text-sm text-gray-600">Filmes, séries e documentários originais de qualidade premium.</p>
                 </div>
                 
                 <div className="bg-white p-4 rounded border border-gray-200">
                   <h4 className="font-bold text-gray-900 mb-2">Amazon Prime Video</h4>
-                  <p className="text-sm text-gray-600">Conte\u00fado exclusivo + benef\u00edcios adicionais da assinatura Prime.</p>
+                  <p className="text-sm text-gray-600">Conteúdo exclusivo + benefícios adicionais da assinatura Prime.</p>
                 </div>
                 
                 <div className="bg-white p-4 rounded border border-gray-200">
@@ -471,25 +471,25 @@ export default function Home() {
                 
                 <div className="bg-white p-4 rounded border border-gray-200">
                   <h4 className="font-bold text-gray-900 mb-2">Globoplay</h4>
-                  <p className="text-sm text-gray-600">Novelas, s\u00e9ries e conte\u00fado exclusivo da Globo.</p>
+                  <p className="text-sm text-gray-600">Novelas, séries e conteúdo exclusivo da Globo.</p>
                 </div>
                 
                 <div className="bg-white p-4 rounded border border-gray-200">
                   <h4 className="font-bold text-gray-900 mb-2">YouTube Premium</h4>
-                  <p className="text-sm text-gray-600">Sem an\u00fancios + acesso a conte\u00fado exclusivo.</p>
+                  <p className="text-sm text-gray-600">Sem anúncios + acesso a conteúdo exclusivo.</p>
                 </div>
                 
                 <div className="bg-white p-4 rounded border border-gray-200">
                   <h4 className="font-bold text-gray-900 mb-2">Pluto TV</h4>
-                  <p className="text-sm text-gray-600">Canais ao vivo e conte\u00fado sob demanda \u2014 completamente gratuito.</p>
+                  <p className="text-sm text-gray-600">Canais ao vivo e conteúdo sob demanda — completamente gratuito.</p>
                 </div>
               </div>
             </div>
 
             <div className="bg-gray-100 border border-gray-300 p-8 rounded-lg">
-              <h3 className="text-lg font-bold text-gray-900 mb-3">Escolha Produtos Originais e de Confian\u00e7a</h3>
+              <h3 className="text-lg font-bold text-gray-900 mb-3">Escolha Produtos Originais e de Confiança</h3>
               <p className="text-gray-700 leading-relaxed">
-                Ao investir em uma TV Box ou smart TV, sempre escolha marcas reconhecidas e autorizadas. Produtos originais oferecem garantia, atualiza\u00e7\u00f5es de seguran\u00e7a regulares e compatibilidade com os servi\u00e7os de streaming leg\u00edtimos. Evite produtos falsificados ou de origem duvidosa \u2014 eles s\u00e3o mais baratos, mas v\u00eam sem suporte, seguran\u00e7a ou confiabilidade.
+                Ao investir em uma TV Box ou smart TV, sempre escolha marcas reconhecidas e autorizadas. Produtos originais oferecem garantia, atualizações de segurança regulares e compatibilidade com os serviços de streaming legítimos. Evite produtos falsificados ou de origem duvidosa — eles são mais baratos, mas vêm sem suporte, segurança ou confiabilidade.
               </p>
             </div>
           </div>
